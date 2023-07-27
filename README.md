@@ -26,7 +26,9 @@ Además soy un apasionado del diseño y de la impresión 3D, por lo que me gusta
 
 
 ## Rapidfire  
-![42 Badge](https://badge42.vercel.app/api/v2/clkkvymoc012008mcghegnr25/stats?cursusId=21&coalitionId=275)  
+<div align="center">
+<img src="https://badge42.vercel.app/api/v2/clkkvymoc012008mcghegnr25/stats?cursusId=21&coalitionId=275" align="center" height="" width="" />
+</div>  
   
 
 <br/>  
