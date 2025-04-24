@@ -14,9 +14,8 @@
 
 ### Gracias por entrar a mi perfil!
 
-Soy Ingeniero Técnico Industrial y actualmente formo parte como alumno del Campus 42 Málaga (Fundación Telefónica), uno de los Campus de Programación más innovadores del mundo.
-Me gusta la tecnología y con esta oportunidad que se me presenta pretendo convertirme en un profesional de este sector.
-Además soy un apasionado del diseño y de la impresión 3D, por lo que me gustaría unir estos campos con los nuevos conocimientos que estoy adquiriendo.
+Soy Ingeniero Técnico Industrial, especializado en Electrónica Industrial y con una gran formación en tecnología, programación y competencias digitales. Mi pasión y aptitud por la tecnología me ha llevado a buscar un giro en mi trayectoria profesional con la intención de enfocarme especialmente en desarrollo y programación. Así, pasé a formar parte de Campus 42 de la Fundación Telefónica, en el que tras 2 años realizando proyectos de programación he finalizado el Common Core, donde habiendo adquirido un enorme conocimiento me encuentro en fase de proyectos de especialización. Igualmente, he realizado  un Bootcamp FullStack, donde  he adquirido experiencia en HTML, CSS, REACT, JavaScript, Java, SpringBoot y MySQL entre otros. 
+Además soy un apasionado del diseño y de la impresión 3D.
 
 <br/>
 
